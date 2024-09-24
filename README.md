@@ -1,5 +1,6 @@
-## Hi there 👋
+## Working on little coding projects here and there
 
+- I'm working with python right now
 <!--
 **FakePoison/FakePoison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
